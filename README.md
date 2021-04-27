@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Peter 👋
 I am the owner of startup Devonus.
 
 
