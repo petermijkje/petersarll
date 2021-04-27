@@ -1,6 +1,7 @@
 ### Hi there, I'm Peter 👋
 I am the owner of startup Devonus.
-
+Full-Stack Developer.
+Feel free to reach out! 
 
 <!--
 **petersarll/petersarll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
