@@ -1,6 +1,6 @@
 ### Hi there, I'm Peter 👋
-I am the owner of startup Devonus. ...
-Full-Stack Developer. ...
+I am the owner of startup Devonus. <br>
+Full-Stack Developer. <br>
 Feel free to reach out! 
 
 <!--
